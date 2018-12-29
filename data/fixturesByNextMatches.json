@@ -1,0 +1,49 @@
+{
+  "api": {
+    "results": 162,
+    "fixtures": {
+      "2678": {
+        "fixture_id": "2678",
+        "event_timestamp": "1547908200",
+        "event_date": "2019-01-19T14:30:00+00:00",
+        "league_id": "8",
+        "round": "Bundesliga - 18",
+        "homeTeam_id": "172",
+        "awayTeam_id": "164",
+        "homeTeam": "VfB Stuttgart",
+        "awayTeam": "FSV Mainz 05",
+        "status": "Not Started",
+        "statusShort": "NS",
+        "goalsHomeTeam": null,
+        "goalsAwayTeam": null,
+        "halftime_score": null,
+        "final_score": null,
+        "penalty": null,
+        "elapsed": "0",
+        "firstHalfStart": "0",
+        "secondHalfStart": "0"
+      },
+      "2674": {
+        "fixture_id": "2674",
+        "event_timestamp": "1547908200",
+        "event_date": "2019-01-19T14:30:00+00:00",
+        "league_id": "8",
+        "round": "Bundesliga - 18",
+        "homeTeam_id": "171",
+        "awayTeam_id": "159",
+        "homeTeam": "FC Nurnberg",
+        "awayTeam": "Hertha Berlin",
+        "status": "Not Started",
+        "statusShort": "NS",
+        "goalsHomeTeam": null,
+        "goalsAwayTeam": null,
+        "halftime_score": null,
+        "final_score": null,
+        "penalty": null,
+        "elapsed": "0",
+        "firstHalfStart": "0",
+        "secondHalfStart": "0"
+      }
+    }
+  }
+}
