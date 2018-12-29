@@ -37,3 +37,20 @@ pip install -r requirements.txt
 # After adding new dependencies
 pip freeze > requirements.txt
 ```
+
+## football api evaluation
+There were 3 different soccer api in the final evaluation process as data provider.
+
+Following aspects were considered in the evaluation process:
++ diversity of data
++ documentation
++ price
+
+| criteria  |api-football   | football-data  | apifootball  |
+|---|---|---|---|
+| data diversity  | ++  | +  | +  |   
+| documentation | ++  | 0  | 0 |   
+| price  |  + | 0  |  0 |   
+
+api-football was the winner of the evaluation process and will be choosen as data provider 
+for the soccer prediction.
